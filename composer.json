@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Haveboard\\HaveScratchPad\\": "src/have-scratch-pad.php"
+            "Haveboard\\HaveScratchPad\\": "have-scratch-pad.php"
         }
     },
     "authors": [
