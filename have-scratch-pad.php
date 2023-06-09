@@ -3,7 +3,7 @@
  * The initation loader for have-scratch-pad main plugin file.
  *
  * @category     WordPress_Plugin
- * @license      GPL-2.0+
+ * @license      MIT
  * Plugin Name:  have-scratch-pad
  * Description:  
  * Author:       Jonathan Finnegan
