@@ -1,0 +1,17 @@
+{
+    "name": "vcs/have-scratch-pad",
+    "description": "development mu plugin to add an admin panel to run  code from the admin. not to be run in production",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vcs\\HaveScratchPad\\": "have-scratch-pad.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "haveboard <jonathan.finnegan@gmail.com>"
+        }
+    ],
+    "require": {}
+}
