@@ -1,5 +1,6 @@
 {
     "name": "vcs/have-scratch-pad",
+    "version": "1.0.0",
     "description": "development mu plugin to add an admin panel to run  code from the admin. not to be run in production",
     "type": "project",
     "license": "MIT",
